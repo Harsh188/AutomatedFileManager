@@ -1,4 +1,4 @@
-#Automated File Manager
+# Automated File Manager
 
 This project aims to automate the task of organizing the downloads folder. It moves files into certain directories based on their file type.
 
