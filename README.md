@@ -3,6 +3,7 @@
 This project aims to automate the task of organizing the downloads folder. It moves files into certain directories based on their file type.
 
 Started: April 4th 2020
+
 Finished: April 14th 2020
 
 ## What we have learned: ##
